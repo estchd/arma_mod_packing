@@ -1,0 +1,7 @@
+{
+  "paa_converter_path": "./external_tools/paa/ImageToPAA.exe",
+  "rvmat_converter_path": "./external_tools/config/CfgConvert.exe",
+  "config_converter_path": "./external_tools/config/CfgConvert.exe",
+  "pbo_packer_path": "./external_tools/pbo/pboc.exe",
+  "pbo_signer_path": "./external_tools/signing/dsSignFile.exe"
+}
